@@ -3,7 +3,7 @@
 Aplikacja webowa do zarządzania budżetem domowym z AI.
 
 ## 🚀 Live Demo
-[https://budget-tracker-matt6159.streamlit.app/](URL)
+[https://budget-tracker-matt6159.streamlit.app/]
 
 ## ✨ Funkcje
 - 🔐 System logowania
